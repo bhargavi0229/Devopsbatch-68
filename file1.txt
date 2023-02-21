@@ -1,2 +1,2 @@
-Hi this is my first program
-adding changes
+Hi this is SC1
+
